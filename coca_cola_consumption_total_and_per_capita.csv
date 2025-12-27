@@ -1,0 +1,21 @@
+Country,Region,Population_Millions,Coke_Liters_Per_Person_Per_Year,Total_Coke_Billion_Liters_Per_Year
+Mexico,North America,129,246.0,31.734
+United States,North America,333,133.0,44.289
+Canada,North America,39,110.0,4.29
+Brazil,South America,216,95.0,20.52
+Argentina,South America,46,155.0,7.13
+United Kingdom,Europe,67,98.0,6.566
+Germany,Europe,83,92.0,7.636
+France,Europe,65,85.0,5.525
+Spain,Europe,48,87.0,4.176
+Italy,Europe,59,75.0,4.425
+Japan,Asia,125,55.0,6.875
+South Korea,Asia,52,62.0,3.224
+China,Asia,1410,10.5,14.805
+India,Asia,1420,3.0,4.26
+Indonesia,Asia,276,18.0,4.968
+Australia,Oceania,26,120.0,3.12
+South Africa,Africa,60,60.0,3.6
+Nigeria,Africa,227,25.0,5.675
+Egypt,Africa,112,20.0,2.24
+Saudi Arabia,Middle East,36,70.0,2.52
